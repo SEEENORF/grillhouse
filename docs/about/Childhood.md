@@ -7,8 +7,8 @@ tags:
 ## COSA HA SEGNATO LA MIA INFANZIA
 
 
-## CHI SONO IO E CHI NON SEI MAI TU
-Monkey D. Rufy (モンキー・D・ルフィ?, Monkī Dī Rufi) è il protagonista del manga One Piece, scritto e disegnato da Eiichirō Oda, e delle sue opere derivate. Nell'edizione italiana della serie televisiva anime è soprannominato Rubber fino all'episodio 578, mentre a partire dall'episodio 579, nei film usciti al cinema anche in Italia, nell'adattamento live-action e nella versione sottotitolata Netflix dell'anime viene mantenuta la sua traslitterazione ufficiale Monkey D. Luffy[9].
+## Monkey D. Luffy 
+Monkey D. Rufy (モンキー・D・ルフィ?, Monkī Dī Rufi) è il protagonista del manga One Piece, scritto e disegnato da Eiichirō Oda, e delle sue opere derivate. Nell'edizione italiana della serie televisiva anime è soprannominato Rubber fino all'episodio 578, mentre a partire dall'episodio 579, nei film usciti al cinema anche in Italia, nell'adattamento live-action e nella versione sottotitolata Netflix dell'anime viene mantenuta la sua traslitterazione ufficiale Monkey D. Luffy[9].(non sei MAI tu)
 
 Rufy è un ragazzo il cui corpo ha acquisito le proprietà della gomma dopo aver inavvertitamente ingerito un frutto del diavolo: grazie a ciò può eseguire una vasta gamma di attacchi accumulando energia nel proprio corpo e sfruttando l'elasticità dei suoi arti; tale frutto è inizialmente presentato con il nome di Gom Gom ma nel corso della trama si scopre la sua reale natura, ossia quella dell'Homo Homo modello Nika, che permette a Rufy di trasformarsi nell'omonimo guerriero leggendario e di acquisirne i poteri[10][11][12]. Per inseguire il suo sogno di trovare il leggendario tesoro One Piece appartenuto a Gol D. Roger e diventare il Re dei pirati, egli salpa dal suo villaggio nel Mare Orientale e si mette in viaggio attraverso la Rotta Maggiore, raccogliendo intorno a sé una ciurma, conosciuta come i pirati di Cappello di paglia, e affrontando numerosi nemici[7].
 

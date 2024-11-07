@@ -1,4 +1,9 @@
 ## Canale di tik tok
 
-potete trovare qui il mio tik tok ([here](https://www.tiktok.com/@))
-Cercare Poi Napoletano_Doc oppure il meme del giorno
+<p>Potete trovare qui il mio profilo TikTok "Il Meme del Giorno" <a href="https://www.tiktok.com/@il_meme_del_giorno?_t=8rCInVjLwAw&_r=1" target="_blank">here</a>.</p>
+
+
+## Canale di youtube
+
+<p>Potete trovare qui il mio vecchio canale YouTube <a href="https://www.youtube.com/@seeenorf4505" target="_blank">here</a>.</p>
+
