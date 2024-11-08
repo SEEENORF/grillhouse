@@ -46,8 +46,8 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Code docs:
-      - Java: coding/myfirstjavafile.md
+  - Codici importanti:
+      - Codici utili per il sito: Codici/Codici Per Il Sito.md
   - Info:
       - Progetti: about/Progetti.md
       - Informazioni: about/Info.md
