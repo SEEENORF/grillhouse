@@ -1,6 +1,9 @@
 ---
 tags:
   - Rufy
+  - Infanzia
+  - One piece
+  - Jak and Daxter
 ---
 
 ...
