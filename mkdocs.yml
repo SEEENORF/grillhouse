@@ -48,10 +48,10 @@ nav:
   - Home: index.md
   - Code docs:
       - Java: coding/myfirstjavafile.md
-  - About:
-      - Current Projects: about/projects.md
-      - About Me: about/about.md
-      - Childhood: about/Childhood.md
+  - Info:
+      - Progetti: about/Progetti.md
+      - Informazioni: about/Info.md
+      - Infanzia: about/Infanzia.md
   - Tags: tags.md
   - Blog:
       - blog/index.md
