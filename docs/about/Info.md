@@ -3,7 +3,6 @@ tags:
   - Informazioni
 ---
 
-...
 
 ![CIAO](<FOTO PER SITO.jpg>)
 
