@@ -13,8 +13,8 @@ Ho postato il mio sito Online!
 ## COSA HO FATTO OGGI
 
 <ol>
-  <li>Ho pubblicato il <font color="red">Sito</font></li>
-  <li>Ho fixato diversi <font color="red">Errori</font></li>
-  <li>Ho tradotto delle <font color="red">Cose</font></li>
-  <li>Ho fatto pratica con diversi codici da <font color="red">Markdown</font></li></li>
+  <li>Ho pubblicato il <font color="ORANGE">Sito</font></li>
+  <li>Ho fixato diversi <font color="ORANGE">Errori</font></li>
+  <li>Ho tradotto delle <font color="ORANGE">Cose</font></li>
+  <li>Ho fatto pratica con diversi codici da <font color="ORANGE">Markdown</font></li></li>
 </ol>
