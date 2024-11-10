@@ -46,12 +46,14 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Codici importanti:
-      - Codici utili per il sito: Codici/Codici Per Il Sito.md
   - Info:
-      - Canali: about/Progetti.md
       - Informazioni: about/Info.md
+      - Canali: about/Progetti.md
       - Infanzia: about/Infanzia.md
-  - Tags: tags.md
   - Blog:
       - blog/index.md
+  - Tags: tags.md
+  - Codici importanti:
+      - Codici utili per il sito: Codici/Codici Per Il Sito.md
+
+
