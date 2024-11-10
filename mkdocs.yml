@@ -1,12 +1,14 @@
 site_name: SGRODOL
 site_url: https://seeenorf.github.io/SGRODOL/
+logo: "/assets/images/SGRODOL-LOGO.png"  # Assicurati che il nome del file corrisponda
+
 theme:
   name: material
-  palette: 
+  palette:
     # Palette toggle for light mode
     - scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
     # Palette toggle for dark mode
     - scheme: slate
@@ -28,7 +30,7 @@ theme:
     - search.highlight
     - search.share
     - content.code.copy
-    
+
 plugins:
   - search
   - tags:
@@ -55,5 +57,7 @@ nav:
   - Tags: tags.md
   - Codici importanti:
       - Codici utili per il sito: Codici/Codici Per Il Sito.md
+
+      
 
 
