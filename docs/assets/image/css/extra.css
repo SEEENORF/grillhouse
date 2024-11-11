@@ -1,0 +1,10 @@
+body {
+    background-color: red !important;
+}
+
+.md-header-nav .md-logo img {
+    content: url('/assets/images/SGRODOL LOGO.png') !important;
+    width: 150px !important;
+    height: auto !important;
+}
+

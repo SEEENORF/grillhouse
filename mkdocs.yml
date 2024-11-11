@@ -1,16 +1,13 @@
 site_name: SGRODOL
 site_url: https://seeenorf.github.io/SGRODOL/
-logo: "/assets/images/SGRODOL-LOGO.png"  # Assicurati che il nome del file corrisponda
 
 theme:
   name: material
   palette:
-    # Palette toggle for light mode
     - scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    # Palette toggle for dark mode
     - scheme: slate
       toggle:
         icon: material/brightness-4
@@ -46,6 +43,9 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 
+extra_css:
+  - assets/css/extra.css  # Aggiungi il CSS personalizzato per il logo
+
 nav:
   - Home: index.md
   - Info:
@@ -58,6 +58,5 @@ nav:
   - Codici importanti:
       - Codici utili per il sito: Codici/Codici Per Il Sito.md
 
-      
 
 
