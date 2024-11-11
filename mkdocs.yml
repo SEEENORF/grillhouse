@@ -3,8 +3,10 @@ site_url: https://seeenorf.github.io/SGRODOL/
 
 theme:
   name: material
+  logo: assets/SGRODOLLOGO.png
   palette:
     - scheme: default
+      primary: purple
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -21,7 +23,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
-    - toc.integrate
+    #- toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight

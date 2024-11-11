@@ -10,6 +10,7 @@ tags:
 
 Piacere sono Fabio Maria Rotoloni e attualmente sei sul mio sito!
 Sono uno studente all' accademia di belle arti di Napoli.
+Nasco a Napoli il 01/06/2004 sono appassionato di Teatro, manga anime e videogiochi.
 
 ### <font color="red">ACCADEMIA</font></li>
 
