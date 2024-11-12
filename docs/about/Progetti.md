@@ -15,3 +15,6 @@ tags:
 
 > <p>Potete trovare qui il mio vecchio canale YouTube <a href="https://www.youtube.com/@seeenorf4505" target="_blank">here</a>.</p>
 
+## Canale di <font color="red">instagram</font></li>
+
+> <p>Potete trovare qui il mio vecchio canale Instagram <a href="https://www.instagram.com/fabio_rot/?next=%2F" target="_blank">here</a>.</p>

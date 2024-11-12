@@ -42,3 +42,15 @@ L’obiettivo principale del corso è formare professionisti in grado di:
 I diplomati in Nuove Tecnologie dell'Arte hanno diverse prospettive lavorative. Possono diventare artisti multimediali, videomaker, esperti di interazione e UX, designer di installazioni interattive, curatori digitali, e molto altro. Le competenze acquisite permettono loro di lavorare sia come freelance che in team, in ambiti che vanno dalla produzione cinematografica e televisiva, alle arti performative, alle industrie creative e culturali.
 
 Frequentando questo corso, gli studenti hanno la possibilità di essere costantemente aggiornati sulle nuove tendenze artistiche e tecnologiche, potendo contare su laboratori e workshop con artisti e professionisti affermati, nonché su un ambiente di apprendimento dinamico e stimolante.
+
+### <font color="red">QUALI SONO I TUOI HOBBY?</font></li>
+
+Attualmente faccio Teatro alla Margherita Aps, Con il mio Maestro <font color="orange">NICOLA ALESSANDRO TEBANO</font></li>
+
+La società Margherita APS è un’associazione di promozione sociale (APS) che opera senza scopo di lucro e ha l’obiettivo di sostenere progetti di utilità sociale per il benessere e lo sviluppo della comunità. Queste associazioni, in generale, promuovono attività culturali, sociali, educative e ambientali, rivolgendosi a diverse fasce di popolazione, spesso con particolare attenzione ai giovani, agli anziani, o a persone in situazione di vulnerabilità.
+
+Essendo una APS, Margherita può collaborare con enti pubblici e altre organizzazioni no-profit per sviluppare iniziative che rispondano ai bisogni del territorio. Le attività tipiche possono includere corsi di formazione, laboratori artistici, eventi culturali, attività di volontariato, e progetti di supporto alla sostenibilità ambientale. 
+
+E io frequento il Laboratorio di Teatro.
+ 
+<p><font color="orange">link Margherita instagram</font></li> <a href="https://www.instagram.com/lamargheritaps/" target="_blank">here</a>.</p>

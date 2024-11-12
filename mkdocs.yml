@@ -49,8 +49,6 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 
-extra_css:
-  - assets/css/extra.css  # Aggiungi il CSS personalizzato per il logo
 
 nav:
   - Home: index.md
