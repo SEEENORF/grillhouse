@@ -58,6 +58,6 @@ nav:
       - Infanzia: about/Infanzia.md
   - Blog:
       - blog/index.md
+  - Documentazione:
+      - Documentazione: Codici/Documentazione.md
   - Tags: tags.md
-  - Codici importanti:
-      - Codici utili per il sito: Codici/Codici Per Il Sito.md
