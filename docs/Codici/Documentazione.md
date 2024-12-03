@@ -7,4 +7,3 @@ A quel punto, ho cercato di proporre nuove idee e ho disegnato diverse opzioni: 
 
 Adesso stiamo pensando di realizzare una specie di rompicapo, cercando di combinare elementi semplici e complessi per creare un progetto interessante e funzionale.
 
-Il nostro gruppo è formato da Fabio Maria Rotoloni, Federico Velella, Carmine Carotenuto, Chiara Marciano, Krystian Bogusz e Christian Fiore.
