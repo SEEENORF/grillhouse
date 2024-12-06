@@ -55,10 +55,10 @@ nav:
   - Info:
       - Informazioni: about/Info.md
       - Canali: about/Progetti.md
-      - NON SEI MAI TU: about/NON SEI MAI TU.md
+      - NON SEI MAI TU: about/NON-SEI-MAI-TU.md
   - Blog:
       - blog/index.md
   - Documentazione:
       - Documentazione: Codici/Documentazione.md
-  - Foto: Codici/Foto Doc.md
+  - Foto: Codici/Foto-Doc.md
   - Tags: tags.md

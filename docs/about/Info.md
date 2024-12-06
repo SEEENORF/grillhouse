@@ -4,7 +4,7 @@ tags:
 ---
 
 
-![CIAO](<FOTO PER SITO.jpg>){ width="300" }
+![CIAO](<FOTO-PER-SITO.jpg>){ width="300" }
 
 ### <font color="red">CHI SONO?</font></li>
 
